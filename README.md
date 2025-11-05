@@ -1,0 +1,1 @@
+The branch already merged with a "fast-forward" strategy is "write_file_list".
